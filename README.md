@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a graduate student at UW, doing masters in analytics.
+I'm a graduate student at UW, doing my masters in analytics.
 
 An English Literature undergrad turned data science post grad, I'm a bit of an academic nomad with an ardent love for math and humanities alike. I love telling stories that matter, backed by fact and evidence, and was luckily enough to turn this passion into fruition at the United Nations and later, at India Data Insights (https://indiadatainsights.com).
 
