@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a graduate student at UW, doing my masters in analytics.
+I'm a senior data analyst at Acumen. I graduated from the University of Washington with a Master of Science in Business Analytics.
 
 An English Literature undergrad turned data science post grad, I'm a bit of an academic nomad with an ardent love for math and humanities alike. I love telling stories that matter, backed by fact and evidence, and was lucky enough to turn this passion into fruition at the **United Nations** and later, at **India Data Insights** (https://indiadatainsights.com).
 
-I strive to work at the intersection of data science for social good, specifically in gender and public health.
+I strive to work at the intersection of data science for social good, specifically in climate, gender and healthcare.
 
 
